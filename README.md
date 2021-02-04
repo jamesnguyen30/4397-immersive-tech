@@ -9,4 +9,7 @@ Screen capture of the project running on Unity
 Screen capture of the project running on IOS device
 ![](ios-readme.gif)
 
+Link to the IOS build: https://drive.google.com/file/d/1hfiL2YUymAwpHXzF0tsvYGpj_tUbeBFw/view?usp=sharing
+
+
 
